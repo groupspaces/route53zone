@@ -1,0 +1,3 @@
+#IP_or_Hostname Hosted_zone_id LoadBalancerHostname [!] [domains]
+#it will translate the {IP_or_Hostname} in the zone to an alias of the given {LoadBalancerHostname}
+#
